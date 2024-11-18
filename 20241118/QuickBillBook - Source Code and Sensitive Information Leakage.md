@@ -31,7 +31,7 @@ This report identifies a critical security vulnerability resulting from the inad
 3. Use the credentials at **38.242.197.\*\*** to log in and verify direct data access.
 
 **Evidence**
-![[01.png]]
+![screenshot](./01.png)
 
 ### Suggested Immediate Remediation Actions
 
