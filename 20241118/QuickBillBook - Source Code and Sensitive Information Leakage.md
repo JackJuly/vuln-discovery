@@ -2,7 +2,7 @@
 
 ### Summary
 
-This report identifies a critical security vulnerability resulting from the inadvertent leakage of the complete source code for **QuickBillBook** (https://www.quickbillbook.com/), which is developed and maintained by **Raviva Infotech Private Limited** (). The leaked information includes both client-side and server-side code along with database credentials that allow direct access to live data.
+This report identifies a critical security vulnerability resulting from the inadvertent leakage of the complete source code for **QuickBillBook** (https://www.quickbillbook.com/), which is developed and maintained by **Raviva Infotech Private Limited**. The leaked information includes both client-side and server-side code along with database credentials that allow direct access to live data.
 
 ### Vulnerability Details
 
